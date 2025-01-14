@@ -1,8 +1,8 @@
 # PIR-controlled LED Strip
 
-This project uses a motion detector (PIR) to turn on an LED strip. The program also turns off the LED strip after a given time (in this case, 30 minutes) and has a bypass/turn-off switch for when you don't want the LED strip to turn on. Because of the IR LED, the system is completely standalone and should be seen as a complement to the remote that is included with the LED strip.
+This project uses a motion detector (PIR) to turn on an LED strip. The program also turns off the LED strip after a given time (in this case 30 minutes) and has a bypass/turn-off switch for when you don't want the LED strip to turn on(for exaple when you are sleeping). Because of the IR LED, the system is completely standalone and is a complement to the remote that is included with the LED strip.
 
-#Inputs
+# Inputs
 This project has two main inputs: one PIR motion detector for detecting motion and one simple switch that allows you to disable the automatic turn-on.
 
 # Outputs
