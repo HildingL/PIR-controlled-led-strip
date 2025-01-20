@@ -18,5 +18,6 @@ The LED strip, and thereby this project, uses the standard NEC protocol. This pr
 
 
 # Pictures & Videos
-Video demo: https://cloud-op0ucrzhj-hack-club-bot.vercel.app/020250119_220525.mp4
-Picture: https://cloud-op0ucrzhj-hack-club-bot.vercel.app/120250119_220515.jpg
+Video demo: ![Video demo](https://cloud-op0ucrzhj-hack-club-bot.vercel.app/020250119_220525.mp4)
+Picture: ![Picture](https://cloud-op0ucrzhj-hack-club-bot.vercel.app/120250119_220515.jpg)
+
